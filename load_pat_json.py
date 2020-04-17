@@ -170,13 +170,44 @@ if __name__ == '__main__':
             c[k] = ch_val / orig_val
         changes[entry_name] = c
 
-    with open('./patcompare_results.csv', 'w') as csvfile:
+    with open('./patcompare_results.csv', 'w', newline='') as csvfile:
         wr = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
         wr.writerow(['filename', 'stage'] + fkeys)
         for f in fnames:
             stage = f.split('_')[-1]
             wr.writerow([f, stage] + [all_feats[f][k] for k in fkeys])
 
+    violin = {k: [[],[],[]] for k in fkeys}
 
+    with open('./patcompare_changes.csv', 'w', newline='') as csvfile:
+        wr = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+        wr.writerow(['filename', 'stage'] + fkeys)
+        for f in changes.keys():
+            stage = '_'.join(f.split('_')[-3:])
 
+            if 'omr' in stage:
+                v_ind = 0
+            elif 'corrected' in stage:
+                v_ind = 1
+            else:
+                v_ind = 2
 
+            if not changes[f]:
+                arr = [-1 for k in fkeys]
+            else:
+                arr = [changes[f][k] for k in fkeys]
+                for k in fkeys:
+                    violin[k][v_ind].append(changes[f][k])
+
+            wr.writerow([f, stage] + arr)
+
+    for k in fkeys:
+        plt.clf()
+            # Create a figure instance
+        ax = plt.subplot(111)
+        plt.violinplot(violin[k])
+        ax.set_ylabel('amount of change (multiplier)')
+        ax.set_xticks([1, 2, 3])
+        ax.set_xticklabels(['omr to corrected', 'corrected to revised', 'revised to aligned'])
+        plt.title(f'change in {k}')
+        plt.savefig(f'pat_changes_{k}.png')
