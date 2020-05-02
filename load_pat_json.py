@@ -7,13 +7,16 @@ import os
 import csv
 
 class Pattern(object):
-    __slots__ = 'identifier', 'cardinality', 'span', 'regions'
+    __slots__ = 'identifier', 'cardinality', 'span', 'regions', 'intervals'
 
     def __init__(self, regions, identifier='', cardinality=-1, span=-1):
         self.regions = regions
         self.cardinality = cardinality
         self.identifier = identifier
         self.span = span
+        self.intervals = [
+            (min(x[:,0]) % 10000, max(x[:,0]) % 10000, int(x[0][0] // 10000))
+        for x in self.regions]
 
 
 def load_patterns(fname):
@@ -115,6 +118,8 @@ def calculate_features(pat_list, ptset):
     feats['num_patterns'] = len(pat_list)
     feats['avg_num_occurrences'] = np.mean([len(x.regions) for x in pat_list])
     feats['med_num_occurrences'] = np.median([len(x.regions) for x in pat_list])
+    feats['max_cardinality'] = np.max([x.cardinality for x in pat_list])
+    feats['mean_cardinality'] = np.mean([x.cardinality for x in pat_list])
 
     temp_dtype = {'names': ['f0', 'f1'], 'formats': [np.dtype('float64'), np.dtype('float64')]}
     all_regions = []
@@ -206,8 +211,8 @@ if __name__ == '__main__':
             # Create a figure instance
         ax = plt.subplot(111)
         plt.violinplot(violin[k])
-        ax.set_ylabel('amount of change (multiplier)')
+        ax.set_ylabel('Amount of change (multiplier)')
         ax.set_xticks([1, 2, 3])
-        ax.set_xticklabels(['omr to corrected', 'corrected to revised', 'revised to aligned'])
-        plt.title(f'change in {k}')
+        ax.set_xticklabels(['OMR to Corrected', 'Corrected to Revised', 'Revised to Aligned'])
+        plt.title(f'Change in {k}')
         plt.savefig(f'pat_changes_{k}.png')

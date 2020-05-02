@@ -1,0 +1,34 @@
+[
+    {
+        "occurrences": [
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    24.0,
+                    0.5
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    22.0,
+                    2.5
+                ],
+                "note_name_sequence": "EEDBCDEDDC"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    26.0,
+                    0.0
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    24.0,
+                    1.0
+                ],
+                "note_name_sequence": "BAAGEFGAGG"
+            }
+        ],
+        "num_occurrences": 2,
+        "median_cardinality": 10.0
+    }
+]

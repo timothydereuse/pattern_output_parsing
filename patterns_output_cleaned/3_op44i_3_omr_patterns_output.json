@@ -1,0 +1,789 @@
+[
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    49.0,
+                    0.0
+                ],
+                "num_onsets": 17,
+                "start_measure_and_offset": [
+                    46.0,
+                    0.0
+                ],
+                "note_name_sequence": "DDBAGADBAGADBAGAF"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    49.0,
+                    0.0
+                ],
+                "num_onsets": 16,
+                "start_measure_and_offset": [
+                    46.0,
+                    0.25
+                ],
+                "note_name_sequence": "DBAGADBAGADBAGAF"
+            }
+        ],
+        "num_occurrences": 2,
+        "median_cardinality": 16.5
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    151.0,
+                    1.75
+                ],
+                "num_onsets": 16,
+                "start_measure_and_offset": [
+                    150.0,
+                    0.0
+                ],
+                "note_name_sequence": "FEDCFEDCFEDCFEDC"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    151.0,
+                    0.75
+                ],
+                "num_onsets": 15,
+                "start_measure_and_offset": [
+                    149.0,
+                    1.25
+                ],
+                "note_name_sequence": "EDCFEDCFEDCFEDC"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    151.0,
+                    0.5
+                ],
+                "num_onsets": 15,
+                "start_measure_and_offset": [
+                    149.0,
+                    1.0
+                ],
+                "note_name_sequence": "GFEDGFEDGFEDGFE"
+            }
+        ],
+        "num_occurrences": 3,
+        "median_cardinality": 15.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    96.0,
+                    1.5
+                ],
+                "num_onsets": 15,
+                "start_measure_and_offset": [
+                    95.0,
+                    0.0
+                ],
+                "note_name_sequence": "GEFDECDBCACBCAC"
+            },
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    38.0,
+                    1.5
+                ],
+                "num_onsets": 15,
+                "start_measure_and_offset": [
+                    37.0,
+                    0.0
+                ],
+                "note_name_sequence": "FGEFDECDBDCDBDC"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    38.0,
+                    1.25
+                ],
+                "num_onsets": 15,
+                "start_measure_and_offset": [
+                    36.0,
+                    1.75
+                ],
+                "note_name_sequence": "ABGAFGEFDFEFDFE"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    96.0,
+                    1.5
+                ],
+                "num_onsets": 14,
+                "start_measure_and_offset": [
+                    95.0,
+                    0.25
+                ],
+                "note_name_sequence": "EFDECDBCACBCAC"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    98.0,
+                    1.5
+                ],
+                "num_onsets": 14,
+                "start_measure_and_offset": [
+                    97.0,
+                    0.25
+                ],
+                "note_name_sequence": "EFDECDBCACBCAC"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    38.0,
+                    1.0
+                ],
+                "num_onsets": 14,
+                "start_measure_and_offset": [
+                    36.0,
+                    1.75
+                ],
+                "note_name_sequence": "ABGAFGEFDFEFDF"
+            }
+        ],
+        "num_occurrences": 6,
+        "median_cardinality": 14.5
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    15.0,
+                    1.25
+                ],
+                "num_onsets": 13,
+                "start_measure_and_offset": [
+                    14.0,
+                    0.25
+                ],
+                "note_name_sequence": "AGFADCBAGFEFG"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    7.0,
+                    1.5
+                ],
+                "num_onsets": 13,
+                "start_measure_and_offset": [
+                    6.0,
+                    0.5
+                ],
+                "note_name_sequence": "AGFADCBAGFEFG"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    23.0,
+                    1.25
+                ],
+                "num_onsets": 13,
+                "start_measure_and_offset": [
+                    22.0,
+                    0.25
+                ],
+                "note_name_sequence": "AGFADCBAGFEFG"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    75.0,
+                    1.0
+                ],
+                "num_onsets": 13,
+                "start_measure_and_offset": [
+                    74.0,
+                    0.0
+                ],
+                "note_name_sequence": "FBAGBEDCBAGFG"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    7.0,
+                    1.25
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    6.0,
+                    0.5
+                ],
+                "note_name_sequence": "AGFADCBAGFEF"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    23.0,
+                    1.0
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    22.0,
+                    0.25
+                ],
+                "note_name_sequence": "AGFADCBAGFEF"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    15.0,
+                    1.0
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    14.0,
+                    0.25
+                ],
+                "note_name_sequence": "AGFADCBAGFEF"
+            }
+        ],
+        "num_occurrences": 7,
+        "median_cardinality": 13.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    5.0,
+                    1.0
+                ],
+                "num_onsets": 13,
+                "start_measure_and_offset": [
+                    4.0,
+                    0.0
+                ],
+                "note_name_sequence": "CBAGFGFEDFBAG"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    146.0,
+                    0.75
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    145.0,
+                    0.0
+                ],
+                "note_name_sequence": "CBAGFGFEDFBA"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    5.0,
+                    0.75
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    4.0,
+                    0.0
+                ],
+                "note_name_sequence": "CBAGFGFEDFBA"
+            }
+        ],
+        "num_occurrences": 3,
+        "median_cardinality": 12.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    14.0,
+                    0.75
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    13.0,
+                    0.0
+                ],
+                "note_name_sequence": "FBAGBEDCBAGF"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    22.0,
+                    0.75
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    21.0,
+                    0.0
+                ],
+                "note_name_sequence": "FBAGBEDCBAGF"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    14.0,
+                    0.75
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    13.0,
+                    0.25
+                ],
+                "note_name_sequence": "BAGBEDCBAGF"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    22.0,
+                    0.75
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    21.0,
+                    0.25
+                ],
+                "note_name_sequence": "BAGBEDCBAGF"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    23.0,
+                    0.75
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    22.0,
+                    0.25
+                ],
+                "note_name_sequence": "AGFADCBAGFE"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    15.0,
+                    0.75
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    14.0,
+                    0.25
+                ],
+                "note_name_sequence": "AGFADCBAGFE"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    72.0,
+                    0.75
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    71.0,
+                    0.25
+                ],
+                "note_name_sequence": "AGFADCBAGFE"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    7.0,
+                    1.0
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    6.0,
+                    0.5
+                ],
+                "note_name_sequence": "AGFADCBAGFE"
+            }
+        ],
+        "num_occurrences": 8,
+        "median_cardinality": 11.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    40.0,
+                    1.25
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    39.0,
+                    0.5
+                ],
+                "note_name_sequence": "EFDECDBDCDBD"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    38.0,
+                    1.0
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    37.0,
+                    0.25
+                ],
+                "note_name_sequence": "GAFGEFDFEFDF"
+            },
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    38.0,
+                    1.25
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    37.0,
+                    0.5
+                ],
+                "note_name_sequence": "EFDECDBDCDBD"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    96.0,
+                    1.5
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    95.0,
+                    0.75
+                ],
+                "note_name_sequence": "DECDBCACBCAC"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    98.0,
+                    1.5
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    97.0,
+                    0.75
+                ],
+                "note_name_sequence": "DECDBCACBCAC"
+            },
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    101.0,
+                    0.5
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    100.0,
+                    0.0
+                ],
+                "note_name_sequence": "FGEFDECEDEC"
+            },
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    43.0,
+                    0.5
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    42.0,
+                    0.0
+                ],
+                "note_name_sequence": "DECDBCACBCA"
+            },
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    40.0,
+                    1.0
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    39.0,
+                    0.5
+                ],
+                "note_name_sequence": "EFDECDBDCDB"
+            },
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    38.0,
+                    1.0
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    37.0,
+                    0.5
+                ],
+                "note_name_sequence": "EFDECDBDCDB"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    38.0,
+                    0.75
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    37.0,
+                    0.25
+                ],
+                "note_name_sequence": "GAFGEFDFEFD"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    98.0,
+                    1.25
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    97.0,
+                    0.75
+                ],
+                "note_name_sequence": "DECDBCACBCA"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    96.0,
+                    1.25
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    95.0,
+                    0.75
+                ],
+                "note_name_sequence": "DECDBCACBCA"
+            }
+        ],
+        "num_occurrences": 12,
+        "median_cardinality": 11.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    151.0,
+                    1.75
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    150.0,
+                    1.0
+                ],
+                "note_name_sequence": "FEDCFEDCFEDC"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    150.0,
+                    1.5
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    149.0,
+                    1.0
+                ],
+                "note_name_sequence": "GFEDGFEDGFE"
+            }
+        ],
+        "num_occurrences": 2,
+        "median_cardinality": 11.5
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    32.0,
+                    0.5
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    31.0,
+                    0.0
+                ],
+                "note_name_sequence": "GFGFGFGFECD"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    28.0,
+                    0.25
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    27.0,
+                    0.0
+                ],
+                "note_name_sequence": "GFGFGFGFEC"
+            }
+        ],
+        "num_occurrences": 2,
+        "median_cardinality": 10.5
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    18.0,
+                    0.25
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    16.0,
+                    1.75
+                ],
+                "note_name_sequence": "CEFEDCBABCD"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    12.0,
+                    0.25
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    10.0,
+                    1.75
+                ],
+                "note_name_sequence": "CEFEDCBABCD"
+            }
+        ],
+        "num_occurrences": 2,
+        "median_cardinality": 11.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    47.0,
+                    1.5
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    46.0,
+                    0.0
+                ],
+                "note_name_sequence": "DDBAGADBAGA"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    47.0,
+                    1.5
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    46.0,
+                    0.25
+                ],
+                "note_name_sequence": "DBAGADBAGA"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    109.0,
+                    1.5
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    108.0,
+                    0.25
+                ],
+                "note_name_sequence": "BGFEFBGFEF"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    51.0,
+                    1.25
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    50.0,
+                    0.0
+                ],
+                "note_name_sequence": "DBAGADBAGA"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    48.0,
+                    1.5
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    47.0,
+                    0.25
+                ],
+                "note_name_sequence": "DBAGADBAGA"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    51.0,
+                    1.5
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    50.0,
+                    0.25
+                ],
+                "note_name_sequence": "DBAGADBAGA"
+            }
+        ],
+        "num_occurrences": 6,
+        "median_cardinality": 10.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    150.0,
+                    0.75
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    148.0,
+                    1.25
+                ],
+                "note_name_sequence": "EDFEDCFEDC"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    150.0,
+                    0.5
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    148.0,
+                    0.0
+                ],
+                "note_name_sequence": "FEDFEDCFED"
+            }
+        ],
+        "num_occurrences": 2,
+        "median_cardinality": 10.0
+    }
+]

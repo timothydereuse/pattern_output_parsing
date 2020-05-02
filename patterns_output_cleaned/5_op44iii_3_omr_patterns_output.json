@@ -1,0 +1,169 @@
+[
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    28.0,
+                    0.0
+                ],
+                "num_onsets": 13,
+                "start_measure_and_offset": [
+                    27.0,
+                    0.0
+                ],
+                "note_name_sequence": "EGGEEGGEEGGEF"
+            },
+            {
+                "voice": 2,
+                "end_measure_and_offset": [
+                    48.0,
+                    2.75
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    48.0,
+                    0.0
+                ],
+                "note_name_sequence": "FAAFFAAFFAAF"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    27.0,
+                    2.75
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    27.0,
+                    0.0
+                ],
+                "note_name_sequence": "EGGEEGGEEGGE"
+            }
+        ],
+        "num_occurrences": 3,
+        "median_cardinality": 12.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    27.0,
+                    2.5
+                ],
+                "num_onsets": 12,
+                "start_measure_and_offset": [
+                    26.0,
+                    2.75
+                ],
+                "note_name_sequence": "EEGGEEGGEEGG"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    32.0,
+                    0.0
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    31.0,
+                    0.5
+                ],
+                "note_name_sequence": "EGGEEGGEEGG"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    27.0,
+                    2.25
+                ],
+                "num_onsets": 11,
+                "start_measure_and_offset": [
+                    26.0,
+                    2.75
+                ],
+                "note_name_sequence": "EEGGEEGGEEG"
+            }
+        ],
+        "num_occurrences": 3,
+        "median_cardinality": 11.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    50.0,
+                    2.0
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    49.0,
+                    2.75
+                ],
+                "note_name_sequence": "BBFFBBFFBB"
+            },
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    50.0,
+                    2.75
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    50.0,
+                    0.5
+                ],
+                "note_name_sequence": "FBBFFBBFFB"
+            }
+        ],
+        "num_occurrences": 2,
+        "median_cardinality": 10.0
+    },
+    {
+        "occurrences": [
+            {
+                "voice": 0,
+                "end_measure_and_offset": [
+                    27.0,
+                    2.75
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    27.0,
+                    0.5
+                ],
+                "note_name_sequence": "GEEGGEEGGE"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    31.0,
+                    2.25
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    31.0,
+                    0.0
+                ],
+                "note_name_sequence": "GEEGGEEGGE"
+            },
+            {
+                "voice": 1,
+                "end_measure_and_offset": [
+                    52.0,
+                    2.25
+                ],
+                "num_onsets": 10,
+                "start_measure_and_offset": [
+                    52.0,
+                    0.0
+                ],
+                "note_name_sequence": "ECCEECCEEC"
+            }
+        ],
+        "num_occurrences": 3,
+        "median_cardinality": 10.0
+    }
+]

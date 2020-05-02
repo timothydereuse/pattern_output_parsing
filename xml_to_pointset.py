@@ -3,7 +3,7 @@ from fractions import Fraction
 import os
 
 xmls = []
-for root, dirs, files in os.walk(r"C:\Users\Tim\Documents\code\felix_quartets_got_annotated"):
+for root, dirs, files in os.walk(r"D:\Documents\felix_quartets_got_annotated"):
     for f in files:
         if f[-8:] == 'musicxml':
             xmls.append(os.path.join(root, f))
